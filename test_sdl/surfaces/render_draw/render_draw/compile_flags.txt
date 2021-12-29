@@ -1,0 +1,4 @@
+-I/Users/max/Library/Frameworks/SDL2.framework/Versions/A/Headers
+-F/Users/max/Library/Frameworks
+-frameworkSDL2
+-Wl,-rpath,/Users/max/Library/Frameworks
